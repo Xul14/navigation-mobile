@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rotas</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_perfil">PerfilActivity</string>
+    <string name="title_activity_pedidos">PedidosActivity</string>
+</resources>
